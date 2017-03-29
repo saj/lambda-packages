@@ -47,6 +47,11 @@ lambda_packages = {
         'path': os.path.join(os.path.dirname(os.path.abspath(__file__)),
                             'numpy', 'numpy-1.10.4.tar.gz')
     },
+    'pendulum': {
+        'version': '1.2.0',
+        'path': os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                            'pendulum', 'pendulum-1.2.0.tar.gz')
+    },
     'Pillow': {
         'version': '3.4.2',
         'path': os.path.join(os.path.dirname(os.path.abspath(__file__)),

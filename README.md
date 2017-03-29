@@ -18,6 +18,7 @@ Currently includes support for:
 * MySQL-Python
 * numpy
 * OpenCV
+* pendulum
 * Pillow (PIL)
 * psycopg2
 * PyCrypto
